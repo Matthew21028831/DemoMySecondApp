@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo My Second App</string>
+    <color name="yellow">#FFFFEB3B</color>
+    <string name="fullname">Name: </string>
+    <string name="password">Password: </string>
+    <string name="Login">Login</string>
+    <string name="Cancel">Cancel</string>
+</resources>
